@@ -1,0 +1,2 @@
+this is sample file created in git bash.
+I am uploading this local repository to git hub remote repository.
