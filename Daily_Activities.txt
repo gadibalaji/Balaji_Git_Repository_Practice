@@ -1,0 +1,12 @@
+Balaji
+
+20180925
+
+1.L&T form filling
+
+2.Dev ops reading for 30 min
+
+3.Open Ldap and Phpldapadmin setup using virtual machine
+
+4.Kerberos using ad in ambari
+
